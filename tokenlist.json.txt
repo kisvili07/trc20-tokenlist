@@ -1,0 +1,7 @@
+{
+  "address": "TZFw8G1eUVnE7SssCDaUxi49VDAABwjTGX",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "logoURI": "https://yourdomain.com/path-to-logo.png"
+}
